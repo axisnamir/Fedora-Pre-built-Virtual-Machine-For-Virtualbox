@@ -1,5 +1,5 @@
 # FedoraAndZorin-Pre-built-Virtual-Machine-For-VMware
-Hello This Is Axis Namir We talking Talking About fedora pre-built virtual machine for vmware The username is fedora password There is desktop enviroment Like Cinnamon And GNOME KDE .etc Many Desktop Enviroment is coming soon If you wish to do the download link is coming soon 
+Hello This Is Axis Namir We talking Talking About fedora and zorin os pre-built virtual machine for vmware The username is fedora password There is desktop enviroment Like Cinnamon And GNOME KDE .etc Many Desktop Enviroment is coming soon If you wish to do the download link is coming soon 
 There Is Some Limitation On Fedora And Zorin
 1 If you using Workstation 5 and older It will not Compatible 25H2 is the Stable one It works with player and fusion 
 Its Possible That ESXi Wont Work Because We Would Do Fedora Server For VMware ESXi In Feb 18
