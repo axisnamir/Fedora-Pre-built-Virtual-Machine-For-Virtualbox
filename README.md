@@ -15,3 +15,5 @@ There is ubuntu based distro they are
 4 Elementary OS
 Thank you so much
 i will do any ubuntu based distro
+Fedora Is back
+We could lanuch Cosmic
