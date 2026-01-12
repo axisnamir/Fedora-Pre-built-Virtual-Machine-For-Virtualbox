@@ -18,6 +18,6 @@ Also we would give facebook page
 Sorry we will not make ubuntu releases anymore Since fedora is cutting-edge
 We also cant give asahi becuase you could do it on apple sliicon macs
 Since WSL Is terminal we will not do
-Let me decide that i will use ultramine And Deepin for debian
+Let me decide that i will use ultramine 
 We will create facebook page
 Also i will do nobara
