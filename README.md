@@ -20,3 +20,4 @@ We also cant give asahi becuase you could do it on apple sliicon macs
 Since WSL Is terminal we will not do
 Let me decide that i will use ultramine And Deepin for debian
 We will create facebook page
+Also i will do nobara
